@@ -1,2 +1,4 @@
 Nome: Euclides Chicomo
 NIF Português: 330362828
+Idade: 24 anos
+Altura: 1.85 m
