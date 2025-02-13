@@ -4,3 +4,4 @@ Idade: 24 anos
 Altura: 1.85 m
 Cidade atul: Monte Redondo, Leiria
 País: Portugal
+Cor de cabelo: Preto
